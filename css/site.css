@@ -1,88 +1,1 @@
-body
-{
-	font-size : 16px;
-	font-family : "@Arial Unicode MS";
-	background-color: #333333;
-}
-
-.MainTable
-{
-	padding : 0%;
-	width: 90%;
-	margin-left: 5%;
-	margin-right: 5%;
-	border : 1px solid Black;
-}
-
-
-.H1
-{
-	font-size : 50px;
-	font-weight : bold;
-	text-transform: uppercase;
-	text-align : center;
-	background-color: #990033;
-}
-
-
-.tagline
-{
-	font-size : 20px;
-	font-style:italic;
-	text-align : right;
-	background-color: #990033;
-	border-bottom : solid;
-	border-bottom-width : 1px;
-}
-
-.Navigation
-{
-	font-size : 14px;
-	font-weight : bold;
-	text-transform: uppercase;
-	text-align : left;
-	background-color: Silver;
-	border-bottom : solid;
-	border-bottom-width : 1px;
-}
-
-
-H2
-{
-	color: #6495ED;
-	background-color : #E8E8E8;	
-	font-size : 28px;
-	font-weight : bold;
-	text-align: center;
-}
-
-
-
-.MainInfo
-{
-	background-color : #E8E8E8;	
-	vertical-align: top;
-	height: 800px;
-}
-
-.Content
-{
-	margin: 0px 15px 0px 15px;
-}
-
-
-.copy
-{
-	font-size : 14px;
-	font-weight : bold;
-	text-transform: uppercase;	
-	text-align : center;
-	background-color: #990033;
-	border-top : solid;
-	border-top-width : 1px;
-}
-
-.ErrorRed{
-    color: red;
-    font-weight: bold;
-} 
+body{	font-size : 16px;	font-family : "@Arial Unicode MS", serif;	background-color: #333333;}.MainTable{	padding: 0;	width: 90%;	margin-left: 5%;	margin-right: 5%;	border : 1px solid Black;}.H1{	font-size : 50px;	font-weight : bold;	text-transform: uppercase;	text-align : center;	background-color: #990033;}.tagline{	font-size : 20px;	font-style:italic;	text-align : right;	background-color: #990033;	border-bottom : solid;	border-bottom-width : 1px;}.Navigation{	font-size : 14px;	font-weight : bold;	text-transform: uppercase;	text-align : left;	background-color: Silver;	border-bottom : solid;	border-bottom-width : 1px;}H2{	color: #6495ED;	background-color : #E8E8E8;		font-size : 28px;	font-weight : bold;	text-align: center;}.MainInfo{	background-color : #E8E8E8;		vertical-align: top;	height: 800px;}.Content{	margin: 0 15px 0 15px;}.copy{	font-size : 14px;	font-weight : bold;	text-transform: uppercase;		text-align : center;	background-color: #990033;	border-top : solid;	border-top-width : 1px;}.ErrorRed{    color: red;    font-weight: bold;} 
